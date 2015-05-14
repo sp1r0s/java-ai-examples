@@ -1,8 +1,8 @@
-# spark-ml-examples
-###Apache Spark examples using Machine Learning in Java
+# Artificial Intelligence Examples
+### A.I. examples in Java
 
-Most of the examples I found online were not up to date with the latest version of spark and did not run successfully in Java.
-This is a simple Machine Learning classification example.
+I added a simple Machine Learning classification example using Apache Spark.
+I will add more soon.
 
 To run the example just execute:
 
