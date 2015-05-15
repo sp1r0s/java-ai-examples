@@ -1,4 +1,4 @@
-package machinelearning;
+package ml;
 
 import java.io.Serializable;
 

@@ -1,11 +1,13 @@
 # Artificial Intelligence Examples
 ### A.I. examples in Java
 
-I added a simple Machine Learning classification example using Apache Spark.
-I will add more soon.
+Examples
+--------
 
-To run the example just execute:
+* A Machine Learning classification example using <a href="https://spark.apache.org/" target="target">Apache Spark</a>.
+* A Natural Language Processing example using the <a href="http://nlp.stanford.edu/software/index.shtml" target="target">Stanford NLP</a>.
 
-    (Windows) gradlew run
+How to run the examples
+-----------------------
 
-    (Unix like) bash gradlew run
+Each example has a main method you can use to run it.
