@@ -12,7 +12,7 @@ dependencies {
             'edu.stanford.nlp:stanford-corenlp:3.5.2',
             'edu.stanford.nlp:stanford-corenlp:3.5.2:models'
 
-    compile fileTree(dir: 'lib/opencv_linux')
+    compile fileTree(dir: 'lib/opencv')
 }
 
 task deleteLogFiles(type: Delete) {
