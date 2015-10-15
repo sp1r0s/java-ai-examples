@@ -64,7 +64,8 @@ public class FaceDetector {
 
     public BufferedImage detectFace(String imagePath) {
         // Create a face detector from the cascade file in the resources directory.
-        CascadeClassifier faceDetector = new CascadeClassifier(getClass().getResource("/lbpcascade_frontalface.xml").getPath());
+        String facePropertiesFilePath = getClass().getResource("/lbpcascade_frontalface.xml").getPath();
+        CascadeClassifier faceDetector = new CascadeClassifier(facePropertiesFilePath);
         Mat image = Imgcodecs.imread(imagePath);
         // Detect faces in the image.
         MatOfRect faceDetections = new MatOfRect();
