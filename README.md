@@ -3,6 +3,7 @@
 Examples
 --------
 
+* A Machine Learning regression example using <a href="www.cs.waikato.ac.nz/ml/weka/" target="target">Weka</a>.
 * A Machine Learning classification example using <a href="https://spark.apache.org/" target="target">Apache Spark</a>.
 * A Natural Language Processing example using the <a href="http://nlp.stanford.edu/software/index.shtml" target="target">Stanford NLP</a>.
 * A Computer Vision example using <a href="http://opencv.org/" target="target">OpenCV</a>(*).
