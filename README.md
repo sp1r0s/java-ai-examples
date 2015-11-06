@@ -8,8 +8,12 @@ Examples
 * A Natural Language Processing example using the <a href="http://nlp.stanford.edu/software/index.shtml" target="target">Stanford NLP</a>.
 * A Computer Vision example using <a href="http://opencv.org/" target="target">OpenCV</a>(*).
 
+How to build the project
+------------------------
+    gradlew build
+
 How to run the examples
------------------------
+------------------------
 
 Each example has a main method you can use to run it.
 
